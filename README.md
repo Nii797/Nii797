@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Soni Hidayatulloh
 - 🧮💻 Web Developer
 - 👀 I’m interested in Web Programming
-- 🌱 I’m currently learning Laravel, Vue, and React
+- 🌱 I’m currently learning Laravel
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 Reach me in https://cvsoni.000webhostapp.com/
 
